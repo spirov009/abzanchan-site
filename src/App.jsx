@@ -1,10 +1,10 @@
 // Full updated component with backend integration for subscription and feedback
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
+import { Button } from "./components/ui/button";
+import { Card, CardContent } from "./components/ui/card";
+import { Input } from "./components/ui/input";
+import { Textarea } from "./components/ui/textarea";
+import { ToggleGroup, ToggleGroupItem } from "./components/ui/toggle-group";
 import { Globe, Instagram, MessageCircle, PhoneCall, ShoppingCart, Image as ImageIcon, ArrowRight, Star, MapPin, HelpCircle, Wallet, Mail, UserHeart, Pencil } from "lucide-react";
 
 export default function AbzanChanLanding() {
